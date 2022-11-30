@@ -2,8 +2,6 @@
 ## Introduction
 Hi! Right now you are looking at the simple personal web. It's mean as minimalistic replacement of [about.me](http://about.me) page for my wife. In case you found it handy do not hesitate to use it for your own purposes.
 
-![Screenshot](https://dl.dropboxusercontent.com/u/78826/bsweb/sc0.png)
-
 ### Prerequisities
 
 - [node.js](http://nodejs.org/)
